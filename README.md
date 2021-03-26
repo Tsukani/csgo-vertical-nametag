@@ -17,6 +17,7 @@ Start by making sure that the game isn't running. Once the application is launch
 * Skin name
  
 The URLs are found by entering your [CS:GO inventory](https://steamcommunity.com/my/inventory/#730) in a web browser, clicking on the item you want to select in the inventory, right-clicking that item and selecting `Copy link address` like shown:
+
 ![Copy URL example](https://i.imgur.com/CnxNtTL.png)
 
 Paste the name tag URL first and afterwards the skin URL (Right click to paste). Lastly enter the name which you would like to use for your skin. 
