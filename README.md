@@ -5,7 +5,7 @@
 * Make sure you have [Node.js](https://nodejs.org/en/) installed.
 * Download this repository by clicking the green `Code` button and selecting `Download ZIP`.
 * Extract the ZIP file and open the folder.
-* Open account.json and enter your account username and password.
+* Open account.json and enter your account username and password. [Why?](#why-is-my-account-credentials-required-and-how-does-it-work)
 * Open a terminal in the folder.
 * Install the required dependencies by typing `npm i`.
 * Once done, type `node .` to start the script.
@@ -18,6 +18,7 @@ Start by making sure that the game isn't running. Once the application is launch
  
 The URLs are found by entering your [CS:GO inventory](https://steamcommunity.com/my/inventory/#730) in a web browser, clicking on the item you want to select in the inventory, right-clicking that item and selecting `Copy link address` like shown:
 ![Copy URL example](https://i.imgur.com/CnxNtTL.png)
+
 Paste the name tag URL first and afterwards the skin URL (Right click to paste). Lastly enter the name which you would like to use for your skin. 
 #### SKIN NAMES BELOW 9 CHARACTERS HAVE ONLY BEEN PROVED TO WORK USING THIS METHOD. TO MAKE SURE YOU GET THE DESIRED RESULT, PLEASE ONLY NAME YOUR SKIN A MAXIMUM OF 9 CHARACTERS!
 You'll be prompted to confirm the name tag and will see a preview of the result. Type `y` to use the name tag-
