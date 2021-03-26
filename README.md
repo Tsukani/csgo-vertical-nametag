@@ -22,7 +22,7 @@ The URLs are found by entering your [CS:GO inventory](https://steamcommunity.com
 
 Paste the name tag URL first and afterwards the skin URL (Right click to paste). Lastly enter the name which you would like to use for your skin. 
 #### SKIN NAMES BELOW 9 CHARACTERS HAVE ONLY BEEN PROVED TO WORK USING THIS METHOD. TO MAKE SURE YOU GET THE DESIRED RESULT, PLEASE ONLY NAME YOUR SKIN A MAXIMUM OF 9 CHARACTERS!
-You'll be prompted to confirm the name tag and will see a preview of the result. Type `y` to use the name tag-
+You'll be prompted to confirm the name tag and will see a preview of the result. Type `y` to use the name tag.
 
 ## Why is my account credentials required? (And how does it work?)
 Your credentials are required to establish a connection to the CS:GO GameCordinator.
