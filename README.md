@@ -5,7 +5,7 @@
 * Make sure you have [Node.js](https://nodejs.org/en/) installed.
 * Download this repository by clicking the green `Code` button and selecting `Download ZIP`.
 * Extract the ZIP file and open the folder.
-* Open account.json and enter your account username and password. [Why?](#why-is-my-account-credentials-required-and-how-does-it-work)
+* Open account.json and enter your account username and password. [(Why?)](#why-is-my-account-credentials-required-and-how-does-it-work)
 * Open a terminal in the folder.
 * Install the required dependencies by typing `npm i`.
 * Once done, type `node .` to start the script.
@@ -41,3 +41,4 @@ More information about how this works can be seen in the [node-globaloffensive](
 
 ## Issues
 Any issues or suggestions can be written as an issue on this repository or be sent straight to me on Discord: **Tsukani#0001** 
+I'm not responsible for anything that might happen after using this application.
