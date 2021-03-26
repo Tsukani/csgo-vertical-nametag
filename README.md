@@ -41,4 +41,5 @@ More information about how this works can be seen in the [node-globaloffensive](
 
 ## Issues
 Any issues or suggestions can be written as an issue on this repository or be sent straight to me on Discord: **Tsukani#0001** 
+
 I'm not responsible for anything that might happen after using this application.
