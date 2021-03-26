@@ -1,4 +1,4 @@
-# CS:GO Vertical Name tag
+# CS:GO Vertical Name Tag
 ##### Allows you to rename CS:GO skins with a vertical name tag. Written in JavaScript (requires [Node.js](https://nodejs.org/en/))
 
 ## Installation
