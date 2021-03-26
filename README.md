@@ -5,7 +5,7 @@
 * Make sure you have [Node.js](https://nodejs.org/en/) installed.
 * Download this repository by clicking the green `Code` button and selecting `Download ZIP`.
 * Extract the ZIP file and open the folder.
-* Open account.json and enter your account username and password. [(Why?)](#why-is-my-account-credentials-required-and-how-does-it-work)
+* Open account.json and enter your account username and password. ([Why?](#why-is-my-account-credentials-required-and-how-does-it-work))
 * Open a terminal in the folder.
 * Install the required dependencies by typing `npm i`.
 * Once done, type `node .` to start the script.
