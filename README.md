@@ -26,7 +26,7 @@ You'll be prompted to confirm the name tag and will see a preview of the result.
 
 ## Why is my account credentials required? (And how does it work?)
 Your credentials are required to establish a connection to the CS:GO GameCordinator.
-When launching the application your account automatically starts CS:GO and connects to the so called "GameCordinator". The GameCordinator has many uses such as displaying profile information, and in our case, inventories. This application emulates a request sent to the GameCordinator when you rename an item in-game but using special characters not normally typeable in the CS:GO.
+When launching the application your account automatically starts CS:GO and connects to the so called "GameCordinator". The GameCordinator has many uses such as displaying profile information, and in our case, inventories. This application emulates a request sent to the GameCordinator when you rename an item in-game but using special characters not normally typeable in-game.
 More information about how this works can be seen in the [node-globaloffensive](https://github.com/DoctorMcKay/node-globaloffensive) module.
 
 
